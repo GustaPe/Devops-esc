@@ -1,8 +1,7 @@
 # Devops-esc
 
-A homologação tem como objetivo realizar testes de produção relacionadas a feature antes da reintegração para a branch principal (main).
+A reintegração tem o objtivode de recolocar o código em produção
 
-Yuri Valeixo
-
+Graziela
 
 
