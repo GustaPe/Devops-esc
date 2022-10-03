@@ -15,3 +15,7 @@ Gustavo da Silva Pereira
 A reintegração serve como um processo para recolocar a feature novamente na produção.
 
 Graziela Rudinger
+
+A produção é a branch que roda todas as features feitas durante o processo de desenvolvimento.
+
+Felipe Kooji Vidal Tsuchiya
