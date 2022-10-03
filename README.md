@@ -12,3 +12,6 @@ Um hotfix ou atualização de engenharia de correção rápida é um pacote cumu
 
 Gustavo da Silva Pereira
 
+A reintegração serve como um processo para recolocar a feature novamente na produção.
+
+Graziela Rudinger
